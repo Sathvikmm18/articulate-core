@@ -56,7 +56,7 @@ export const AssistantInterface = () => {
     {
       id: "1",
       type: "assistant",
-      content: "Hello! I'm your Multi-LLM Assistant. I can help you with scheduling, summarizing documents, coding tasks, web browsing, and much more. How can I assist you today?",
+      content: "Hello! I'm Mindeep. I can help you with scheduling, summarizing documents, coding tasks, web browsing, and much more. How can I assist you today?",
       timestamp: new Date(),
     },
   ]);
@@ -122,7 +122,7 @@ export const AssistantInterface = () => {
               <Zap className="w-6 h-6 text-primary-foreground" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold gradient-text">Multi-LLM Assistant</h1>
+              <h1 className="text-2xl font-bold gradient-text">Mindeep</h1>
               <p className="text-foreground-secondary text-sm">
                 Powered by GPT-4, Claude, LLaMA & specialized models
               </p>
